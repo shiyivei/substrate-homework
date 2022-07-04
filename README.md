@@ -26,7 +26,7 @@ This is Rust
 http://127.0.0.1:3030/sleep
 ```
 
-延迟5s打印
+延迟 5s 打印
 
 ```
 Hello SHIYIVEI
@@ -45,7 +45,7 @@ http://127.0.0.1:3030/s
 ```
 Ooops!
 
-Sorry,I don't known what you are asking for
+Sorry,I don't know what you are asking for
 ```
 
 ## 4.在终端查看输出
@@ -66,4 +66,3 @@ Worker 2 was told to terminate
 Worker 3 was told to terminate
 ...
 ```
-
