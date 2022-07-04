@@ -18,7 +18,7 @@ fn main() {
     let pool = ThreadPool::new(4);
 
     //使用for循环遍历监听到的请求
-    for stream in listener.incoming().take(2) {
+    for stream in listener.incoming().take(5) {
         let stream = stream.unwrap();
 
         //使用数量有限的线程处理请求
